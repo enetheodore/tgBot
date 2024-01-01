@@ -1,7 +1,7 @@
 import telebot
 
 BOT_TOKEN = "6087148355:AAGJsd96xkxiFgASHieUgUemow3gYPpCN5Q"
-GROUP_CHAT_ID = "358877826"
+GROUP_CHAT_ID = "your group chat id"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
