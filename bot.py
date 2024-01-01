@@ -1,6 +1,6 @@
 import telebot
 
-BOT_TOKEN = "6087148355:AAGJsd96xkxiFgASHieUgUemow3gYPpCN5Q"
+BOT_TOKEN = "your bot tocken"
 department_group_chats = {
     '8': 'GROUP_CHAT_ID_1',
     '12': 'GROUP_CHAT_ID_2',
